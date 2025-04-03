@@ -68,9 +68,16 @@ This will run the frontend on `http://localhost:3000`
 
 Screenshots:
 
+Home Page:
 ![home-page](https://github.com/user-attachments/assets/ade624c2-8232-451f-a348-331c7cbecf35)
+
+Home page(Dark Mode)
 ![home-page-dark](https://github.com/user-attachments/assets/0fc86b70-3481-4582-8196-5c56c591f4cd)
+
+My Profile:
 ![my-profile](https://github.com/user-attachments/assets/f0ac5f60-5104-42d6-82f8-a0638f17d1c4)
+
+New Post:
 ![new-post](https://github.com/user-attachments/assets/22bb7160-f274-47df-abde-4d1de56d28c7)
 
 ---
