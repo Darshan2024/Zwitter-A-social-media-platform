@@ -47,7 +47,7 @@ npm install
 Then run the server:
 
 ```bash
-npm start
+npm node index.js
 ```
 
 ---
@@ -57,7 +57,7 @@ npm start
 ```bash
 cd ../client
 npm install
-npm start
+npm run start
 ```
 
 This will run the frontend on `http://localhost:3000`
@@ -66,11 +66,12 @@ This will run the frontend on `http://localhost:3000`
 
 ## 📸 Screenshots (Optional)
 
-Add screenshots here once you have them, like:
+Screenshots:
 
-| Home Feed | Profile |
-|-----------|---------|
-| ![](assets/screenshots/home.png) | ![](assets/screenshots/profile.png) |
+![home-page](https://github.com/user-attachments/assets/ade624c2-8232-451f-a348-331c7cbecf35)
+![home-page-dark](https://github.com/user-attachments/assets/0fc86b70-3481-4582-8196-5c56c591f4cd)
+![my-profile](https://github.com/user-attachments/assets/f0ac5f60-5104-42d6-82f8-a0638f17d1c4)
+![new-post](https://github.com/user-attachments/assets/22bb7160-f274-47df-abde-4d1de56d28c7)
 
 ---
 
@@ -87,12 +88,7 @@ Zwitter/
 ## ✨ Future Improvements
 
 - 📨 Real-time messaging
-- 🌙 Dark mode
 - 🔔 Notifications system
 - 📊 Analytics dashboard
 
 ---
-
-## 👨‍💻 Author
-
-- Darshan Ugale – [@Darshan2024](https://github.com/Darshan2024)
